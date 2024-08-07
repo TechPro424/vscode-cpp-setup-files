@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/include/**"
+      ],
+      "compilerPath": "C:/Users/TechPro424/scoop/apps/gcc/current/bin/g++.exe",
+      "cStandard": "gnu23",
+      "cppStandard": "gnu++20",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
