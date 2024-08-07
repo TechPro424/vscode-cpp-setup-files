@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "c:/Users/TechPro424/Coding/C++/src",
+      "cwd": "${workspaceRoot}/src",
       "program": "${workspaceRoot}/out/app.exe",
       "MIMode": "gdb",
       "preLaunchTask": "C++ compile",
